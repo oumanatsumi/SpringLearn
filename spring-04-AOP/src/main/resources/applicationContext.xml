@@ -39,7 +39,6 @@
 
     <bean id="annotation" class="com.ouma.diy.AnnotationPointCut"></bean>
     <aop:aspectj-autoproxy>
-
     </aop:aspectj-autoproxy>
 
 </beans>
